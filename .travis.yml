@@ -3,7 +3,7 @@ notifications:
   email: false
 dist: xenial
 jdk:
-  - oraclejdk12
+  - oraclejdk11
 install: ./gradlew assemble
 after_install:
   - npm install -g npm
