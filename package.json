@@ -78,7 +78,7 @@
   "publishConfig": {
     "access": "public"
   },
-  "repository": "randytarampi/pwa-asset-generator.git",
+  "repository": "randytarampi/pwa-asset-service.git",
   "scripts": {
     "deploy": "NODE_ENV=production sls deploy --stage deploy",
     "dev": "npm run dev:serverless",
