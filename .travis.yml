@@ -4,6 +4,8 @@ notifications:
 dist: xenial
 jdk:
   - oraclejdk11
+before_install:
+  - nvm install 10
 install: ./gradlew assemble
 after_install:
   - npm install -g npm
