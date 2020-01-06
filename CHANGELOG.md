@@ -1,3 +1,15 @@
+# [2.0.0](https://github.com/randytarampi/pwa-asset-service/compare/v1.0.0...v2.0.0) (2020-01-06)
+
+
+### Features
+
+* **package:** Blindly upgrade our dependencies for the new year and support node@10. ([c9e20e2](https://github.com/randytarampi/pwa-asset-service/commit/c9e20e28dc78d27d77429527e6180063ce4f7d6c))
+
+
+### BREAKING CHANGES
+
+* **package:** Really, this is more about dropping support for node@8, but AWS is disallowing creation of node@8 lambdas today anyways, per https://docs.aws.amazon.com/lambda/latest/dg/runtime-support-policy.html.
+
 # 1.0.0 (2019-03-25)
 
 
