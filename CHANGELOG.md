@@ -1,3 +1,10 @@
+## [2.0.1](https://github.com/randytarampi/pwa-asset-service/compare/v2.0.0...v2.0.1) (2020-01-09)
+
+
+### Bug Fixes
+
+* Deploy our `serverless-domain-manager` uses the `*.randytarampi.ca` certificate in all environments. ([cbed709](https://github.com/randytarampi/pwa-asset-service/commit/cbed70976e6ba86451775942136885f2508089e9))
+
 # [2.0.0](https://github.com/randytarampi/pwa-asset-service/compare/v1.0.0...v2.0.0) (2020-01-06)
 
 
