@@ -1,7 +1,7 @@
 language: java
 notifications:
   email: false
-dist: xenial
+dist: bionic
 jdk:
   - oraclejdk11
 before_install:
