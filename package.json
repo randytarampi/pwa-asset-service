@@ -21,7 +21,7 @@
   "devDependencies": {
     "@jetbrains/ts2kt-automator": "^2.0.0",
     "@semantic-release/changelog": "^3.0.6",
-    "@semantic-release/git": "^7.0.18",
+    "@semantic-release/git": "^9.0.0",
     "kotlin-test": "^1.3.61",
     "mocha": "^7.0.0",
     "semantic-release": "^16.0.0",
