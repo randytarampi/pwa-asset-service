@@ -5,7 +5,7 @@ pwa-asset-service
 [![Coverage status](https://img.shields.io/codeclimate/coverage/randytarampi/pwa-asset-service.svg?style=flat-square)](https://coveralls.io/github/randytarampi/pwa-asset-service?branch=master)
 [![Maintainability status](https://img.shields.io/codeclimate/maintainability-percentage/randytarampi/pwa-asset-service.svg?style=flat-square)](https://codeclimate.com/github/randytarampi/pwa-asset-service/maintainability)
 [![Analytics](https://ga-beacon.appspot.com/UA-50921068-1/beacon/github/randytarampi/pwa-asset-service/?flat&useReferrer)](https://github.com/igrigorik/ga-beacon)
-[![Greenkeeper badge](https://badges.greenkeeper.io/randytarampi/pwa-asset-service.svg)](https://greenkeeper.io/)
+
 
 Use [`@randy.tarampi/pwa-asset-generator`](https://www.npmjs.com/package/@randy.tarampi/pwa-asset-generator) to quickly generate image assets for a Progressive Web Application.
 
