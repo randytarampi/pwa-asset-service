@@ -10,7 +10,7 @@
   "bugs": "https://github.com/randytarampi/pwa-asset-service/issues",
   "dependencies": {
     "@randy.tarampi/js": "^6.0.0",
-    "@randy.tarampi/lambda-logger": "^6.0.0",
+    "@randy.tarampi/lambda-logger": "^6.1.21",
     "@randy.tarampi/pwa-asset-generator": "^2.0.0",
     "@randy.tarampi/serverless": "^6.0.0",
     "busboy": "^0.3.1",
